@@ -1,4 +1,4 @@
-# Proje Adı
+# Music Recommendation
 
 Bu proje, Django backend, React frontend ve TensorFlow modeli içeren bir makine öğrenimi projesidir. Proje, kullanıcıların Spotify şarkılarını analiz edip benzer şarkıları önermektedir.
 
